@@ -1,7 +1,7 @@
 # Snagit Mac
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/989/395/png-clipart-snagit-techsmith-macos-screenshot-apple-blue-angle.png" width="200" alt="Snagit icon"/>
+  <img src="https://library.techsmith.com/static/images/logo-snagit-medium.png" width="200" alt="Snagit icon"/>
 </p>
 
 <p align="center">
